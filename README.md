@@ -19,7 +19,7 @@ You should also include a README.md in the repo with your scripts.
 
 
 # Tidy Data Creation Prerequisites
-In order to run the script that create the tidy data set, it is required to have the library `data.table` installed in R
+In order to run the script that create the tidy data set, it is required to have the package `data.table` installed in R
 
 
 
